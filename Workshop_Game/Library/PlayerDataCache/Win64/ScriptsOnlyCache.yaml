@@ -26,8 +26,6 @@ ScriptsOnlyBuild:
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
     - TMPro.TextMeshProUGUI
-    Unity.Timeline.dll:
-    - UnityEngine.Timeline.TimelineAsset
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -1337,4 +1335,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/MAINMENU.unity
   - Assets/Scenes/SampleScene.unity
-  playerPath: G:/Codelab/Game/build/Workshop_Game.exe
+  playerPath: G:/Github/PAB-GAME-CL/built/Workshop_Game.exe
